@@ -16,7 +16,7 @@ struct Employee {
 int main() {
 
     emp.id = 12345;
-    strcpy(emp.name, "Anurag Verma");
+    strcpy(emp.name, "Ayush Mittal");
     emp.detail.hourlyWage = 15.50;
 
     printf("ID: %d\n", emp.id);
